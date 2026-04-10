@@ -41,7 +41,7 @@ git clone https://github.com/TU_USUARIO/grafyapi.git
 cd grafyapi
 
 # 3. Instala dependencias
-npm install --legacy-peer-deps
+npm install
 
 # 4. Inicia en modo desarrollo
 npm run dev
