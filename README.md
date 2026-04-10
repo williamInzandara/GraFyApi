@@ -74,4 +74,18 @@ git
 3. Descomprime, ejecuta `npm install` y `npm run dev`
 
 ---
+Deployment
+gra-fy-api-astw-ioiu9fzq2-williaminzandaras-projects.vercel.app
+Domains
+gra-fy-api-astw.vercel.app
+Status
+Ready
+Created
+5m ago by williamInzandara
+
+github/williamInzandara
+Source
+main
+2a1012f
+Update README.md
 
