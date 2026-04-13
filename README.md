@@ -89,3 +89,7 @@ main
 2a1012f
 Update README.md
 
+## 🌐 Deploy en Vercel
+
+https://gra-fy-api-tqxf.vercel.app
+
